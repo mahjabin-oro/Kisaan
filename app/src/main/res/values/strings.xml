@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">kisaan</string>
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string-array name="array_districts">
+        <item>Select your Division</item>
+        <item>Rajshahi</item>
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Barisal</item>
+        <item>Khulna</item>
+        <item>Sylhet</item>
+        <item>Rangpur</item>
+        <item>Mymensingh</item>
+    </string-array>
+    <string-array name="array_crops">
+        <item>Select Crop Type</item>
+        <item>Paddy</item>
+        <item>Sugarcane</item>
+        <item>Maize</item>
+        <item>Ground Nuts</item>
+        <item>Oil Seeds</item>
+        <item>Pulses</item>
+        <item>Wheat</item>
+        <item>Cotton</item>
+        <item>Millets</item>
+        <item>Barley</item>
+        <item>Tobacco</item>
+    </string-array>
+    <string-array name="array_soiltype">
+        <item>Select Soil Type</item>
+        <item>Black</item>
+        <item>Clayey</item>
+        <item>Loamy</item>
+        <item>Red</item>
+        <item>Sandy</item>
+    </string-array>
+
+</resources>
